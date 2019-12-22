@@ -11,6 +11,7 @@ h1 {
 
 h2 {
   font-size: 1em;
+  color: rgb(210,210,210);
 }
 img {
   display: flex;
@@ -21,7 +22,10 @@ a {
   color: rgb(0,0,0)
 }
 a:hover {
-  color: rgb(0,120,10)
+  color: rgb(180,180,180)
+}
+.underline {
+text-decoration: underline;
 }
 .invisiblelink {
   text-decoration: none;
@@ -59,6 +63,7 @@ button {
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+    color: black;
   }
 .social-media-icon {
   margin-left: 10px;
