@@ -19,6 +19,9 @@ margin: 10px;
 
 }
 
+.centretext {
+text-align: center;
+}
 img {
   display: flex;
   padding: 15px;
